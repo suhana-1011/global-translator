@@ -1,7 +1,9 @@
 streamlit
 deep-translator
 SpeechRecognition
-pyaudio
 textblob
-pytesseract
 Pillow
+pytesseract
+streamlit-webrtc
+av
+numpy
